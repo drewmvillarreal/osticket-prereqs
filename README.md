@@ -43,7 +43,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. After you have created and deployed your new virtual machine, you will connect to it using remote desktop connection app (on windows). To connect to the virtual machine, find the public IP address, and then copy/paste it in the remote desktop connection app. 
+
+<img width="626" height="365" alt="image" src="https://github.com/user-attachments/assets/366cb7ca-a8fd-4977-beed-83e1a896c22d" />
+<img width="399" height="239" alt="image" src="https://github.com/user-attachments/assets/4d42ba56-fb00-4000-a91b-73a4333449f7" />
+
+  
 </p>
 <br />
 
