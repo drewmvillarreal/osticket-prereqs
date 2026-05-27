@@ -31,7 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="583" height="284" alt="image" src="https://github.com/user-attachments/assets/b9a3fcb6-e502-4c59-a704-3bd1da7f70bd" />
+
 </p>
 <p>
 1. The first thing that you will need to do is create a virtual machine in Azure (https://portal.azure.com/). Set up your VM with Windows 11 Pro, version 25H2, and select any size with at least 2 vcpus and 16gbs of memory.
