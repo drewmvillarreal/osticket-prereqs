@@ -44,7 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="399" height="239" alt="image" src="https://github.com/user-attachments/assets/4d42ba56-fb00-4000-a91b-73a4333449f7" />
 </p>
 <p>
-2. After you have created and deployed your new virtual machine, you will connect to it using remote desktop connection app (on windows). To connect to the virtual machine, find the public IP address, and then copy/paste it in the remote desktop connection app. 
+2. After you have created and deployed your new virtual machine, you will connect to it using remote desktop connection app (on windows). To connect to the virtual machine, find the public IP address, and then copy/paste it in the remote desktop connection app. Use the username and password that you set when you created your virtual machine.  
 
 
 
