@@ -176,11 +176,20 @@ There are three extensions we want to enable:
 - php_opache.dll
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+15. We will need to rename a file from ost-sampleconfig.php to ost-config.php. This file can be searched for in file explorer. C:\inetpub\wwwroot\osTicket\include
+
+  Once renamed, right click the file -> properties -> security -> advanced -> disable inheritance, and remove all inherited permissions from this object.
+
+  <img width="218" height="279" alt="image" src="https://github.com/user-attachments/assets/05984cb8-d1e6-4ffd-aa78-3c88c94e5232" />
+
+  <img width="414" height="282" alt="image" src="https://github.com/user-attachments/assets/54efa753-9cbc-45df-b82a-f0dc44eea242" />
+
+  <img width="283" height="153" alt="image" src="https://github.com/user-attachments/assets/9b79f6d5-5bf5-4ece-aa14-5a99fc26f501" />
+
+
+
 </p>
 <br />
 
