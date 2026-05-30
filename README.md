@@ -160,6 +160,12 @@ Restart IIS.
 14. In IIS, navigate through "sites", "default web site", then "osTicket". Click on osTicket, then on the right column, click "Browse *:80 (http))
 </p>
 <img width="711" height="369" alt="image" src="https://github.com/user-attachments/assets/3da23959-546e-4a38-a430-5e6382cf8f9b" />
+<img width="418" height="377" alt="image" src="https://github.com/user-attachments/assets/c2834f18-5e32-4fa2-98b3-6089b708e846" />
+
+Some of the extentions you will need are not enabled. To enable them, go back to IIS, then from osTicket double click PHP manager, then "Enable or disable an extension".
+
+<img width="709" height="371" alt="image" src="https://github.com/user-attachments/assets/498eb59a-ff06-4f47-a86f-ed87174beaa2" />
+<img width="707" height="369" alt="image" src="https://github.com/user-attachments/assets/98c92ab2-dd7d-4378-8fff-e839c21df622" />
 
 <br />
 
