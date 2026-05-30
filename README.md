@@ -139,7 +139,8 @@ Finish and execute.
 - Provide path to the php executable file. This will be the php-cgi file in the PHP folder you created earlier on the C drive. (C:\PHP\php-cgi.exe)
   <img width="357" height="160" alt="image" src="https://github.com/user-attachments/assets/a410fde5-a272-4ada-a5bd-49c29a11613a" />
 
-
+- Restart the IIS server
+  <img width="1003" height="525" alt="image" src="https://github.com/user-attachments/assets/cb759795-e075-470d-a280-6930a0734e50" />
 
 
 
@@ -147,9 +148,6 @@ Finish and execute.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
