@@ -188,6 +188,22 @@ There are three extensions we want to enable:
 
   <img width="283" height="153" alt="image" src="https://github.com/user-attachments/assets/9b79f6d5-5bf5-4ece-aa14-5a99fc26f501" />
 
+We will now add new permissions. 
+
+Click Add, select a principal, then type "Everyone" in the box. 
+
+<img width="413" height="282" alt="image" src="https://github.com/user-attachments/assets/ab56bf4c-f43b-48cd-b2ba-490092b23db2" />
+
+<img width="493" height="320" alt="image" src="https://github.com/user-attachments/assets/71490868-ff3a-4d69-ae4e-0120039346cb" />
+
+<img width="309" height="185" alt="image" src="https://github.com/user-attachments/assets/6ccb676d-ad21-4df8-93ee-9c64a2f1e944" />
+
+Allow full control, click apply and ok.
+
+<img width="610" height="391" alt="image" src="https://github.com/user-attachments/assets/7ab8126e-532b-44cd-8cb3-680621d3c068" />
+
+
+<img width="511" height="350" alt="image" src="https://github.com/user-attachments/assets/5a647293-8d2e-4999-898f-c7821452ac63" />
 
 
 </p>
