@@ -94,7 +94,29 @@ To verify that ISS is installed/enabled, go to your browser and search for 127.0
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5. Download the Installation Files (https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and extract the files to the C drive.
+
+6. Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0) from the Installation Files.
+
+7. Install the Rewrite Module (rewrite_amd64_en-US) from the Installation Files.
+
+8. Create a folder in the C drive called PHP.
+
+9. Extract php-7.3.88-nts-Win32-VC15-x86 to the newly created PHP folder.
+
+10. Install VC_redist.x.86 from the Installation Files.
+
+11. Install mysql-5.5.62-win32. In the setup wizard, select "typical setup". Launch configuration wizard, and select "standard configuration".
+
+Make a new password for the root admin. 
+
+<img width="263" height="202" alt="image" src="https://github.com/user-attachments/assets/e62d2be5-4934-4a44-96ee-b20ec3f8c0d9" />
+
+Finish and execute. 
+
+<img width="340" height="204" alt="image" src="https://github.com/user-attachments/assets/7eae8536-e7ea-4ce2-b65e-9a6f6c1d5489" />
+
+
 </p>
 <br />
 
