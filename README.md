@@ -114,7 +114,8 @@ Make a new password for the root admin.
 
 Finish and execute. 
 
-<img width="340" height="204" alt="image" src="https://github.com/user-attachments/assets/7eae8536-e7ea-4ce2-b65e-9a6f6c1d5489" />
+<img width="262" height="201" alt="image" src="https://github.com/user-attachments/assets/2762a99c-e704-4ee2-84c5-ea44d45cfc83" />
+
 
 
 </p>
