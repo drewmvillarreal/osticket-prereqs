@@ -150,15 +150,17 @@ Finish and execute.
 
 <p>
 13. "Install" osTicket. Extract osTicket-v1.15.8 from the Installtion Files, and copy the "upload" folder to c:\inetpub\wwwroot, then rename the "upload" folder to "osTicket".
+
+Restart IIS.
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+14. In IIS, navigate through "sites", "default web site", then "osTicket". Click on osTicket, then on the right column, click "Browse *:80 (http))
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<img width="711" height="369" alt="image" src="https://github.com/user-attachments/assets/3da23959-546e-4a38-a430-5e6382cf8f9b" />
+
 <br />
 
 <p>
