@@ -130,7 +130,18 @@ Finish and execute.
 
 
 <p>
-12. Open IIS as an administrator. You will need to search for IIS using either the windows search bar, or by clicking the Windows icon and then searching. 
+12. Open IIS as an administrator, and register PHP. You will need to search for IIS using either the windows search bar, or by clicking the Windows icon and then searching. 
+
+- PHP Manager
+  <img width="1002" height="525" alt="image" src="https://github.com/user-attachments/assets/e9e0f912-6caa-4b6a-becf-0a7142f3f0b3" />
+- Register new PHP version
+  <img width="997" height="523" alt="image" src="https://github.com/user-attachments/assets/ffe05422-b519-4a6c-9120-ab0f930865cb" />
+- Provide path to the php executable file. This will be the php-cgi file in the PHP folder you created earlier on the C drive. (C:\PHP\php-cgi.exe)
+  <img width="357" height="160" alt="image" src="https://github.com/user-attachments/assets/a410fde5-a272-4ada-a5bd-49c29a11613a" />
+
+
+
+
 
   
 </p>
