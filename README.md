@@ -167,6 +167,13 @@ Some of the extentions you will need are not enabled. To enable them, go back to
 <img width="709" height="371" alt="image" src="https://github.com/user-attachments/assets/498eb59a-ff06-4f47-a86f-ed87174beaa2" />
 <img width="707" height="369" alt="image" src="https://github.com/user-attachments/assets/98c92ab2-dd7d-4378-8fff-e839c21df622" />
 
+There are three extensions we want to enable:
+
+- php_imap.dll
+
+- php_intl.dll
+
+- php_opache.dll
 <br />
 
 <p>
