@@ -67,9 +67,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-4. You will need to install/enable IIS in Windows, CGI, and Common HTTP Features.
+4. You will need to install/enable IIS in Windows, Web Management Tools, CGI, and Common HTTP Features.
   
   [+] Internet Information Services
+
+  [X] Web Management Tools
   
   [+] World Wide Web Services
   
@@ -81,7 +83,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-<img width="495" height="572" alt="image" src="https://github.com/user-attachments/assets/45413e55-2670-4620-8990-47ccfe101297" />
+<img width="416" height="725" alt="image" src="https://github.com/user-attachments/assets/c067a664-844a-4da5-b016-2e4714047536" />
+
 
 </p>
 <br />
