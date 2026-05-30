@@ -68,11 +68,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 4. You will need to install/enable IIS in Windows, CGI, and Common HTTP Features.
-  - [+] Internet Information Services
-    - [+] World Wide Web Services
-    - [+] Application Development Features
-      - [X] CGI
-      - [X] Common HTTP Features
+  
+  [+] Internet Information Services
+  
+  [+] World Wide Web Services
+  
+  [+] Application Development Features
+  
+  [X] CGI
+  
+  [X] Common HTTP Features
 </p>
 <br />
 
