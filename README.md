@@ -182,21 +182,23 @@ There are three extensions we want to enable:
 
   Once renamed, right click the file -> properties -> security -> advanced -> disable inheritance, and remove all inherited permissions from this object.
 
-  <img width="218" height="279" alt="image" src="https://github.com/user-attachments/assets/05984cb8-d1e6-4ffd-aa78-3c88c94e5232" />
+  <p><img width="218" height="279" alt="image" src="https://github.com/user-attachments/assets/05984cb8-d1e6-4ffd-aa78-3c88c94e5232" /></p>
+  
 
-  <img width="414" height="282" alt="image" src="https://github.com/user-attachments/assets/54efa753-9cbc-45df-b82a-f0dc44eea242" />
+  <p><img width="414" height="282" alt="image" src="https://github.com/user-attachments/assets/54efa753-9cbc-45df-b82a-f0dc44eea242" /></p>
+  
 
-  <img width="283" height="153" alt="image" src="https://github.com/user-attachments/assets/9b79f6d5-5bf5-4ece-aa14-5a99fc26f501" />
+  <p><img width="283" height="153" alt="image" src="https://github.com/user-attachments/assets/9b79f6d5-5bf5-4ece-aa14-5a99fc26f501" /></p>
 
 We will now add new permissions. 
 
 Click Add, select a principal, then type "Everyone" in the box. 
 
-<img width="413" height="282" alt="image" src="https://github.com/user-attachments/assets/ab56bf4c-f43b-48cd-b2ba-490092b23db2" />
+<p><img width="413" height="282" alt="image" src="https://github.com/user-attachments/assets/ab56bf4c-f43b-48cd-b2ba-490092b23db2" /></p>
 
-<img width="493" height="320" alt="image" src="https://github.com/user-attachments/assets/71490868-ff3a-4d69-ae4e-0120039346cb" />
+<p><img width="493" height="320" alt="image" src="https://github.com/user-attachments/assets/71490868-ff3a-4d69-ae4e-0120039346cb" /></p>
 
-<img width="309" height="185" alt="image" src="https://github.com/user-attachments/assets/6ccb676d-ad21-4df8-93ee-9c64a2f1e944" />
+<p><img width="309" height="185" alt="image" src="https://github.com/user-attachments/assets/6ccb676d-ad21-4df8-93ee-9c64a2f1e944" /></p>
 
 Allow full control, click apply and ok.
 
@@ -227,7 +229,7 @@ Back in the browser, complete the Database Settings with your new database detai
 
 <img width="376" height="246" alt="image" src="https://github.com/user-attachments/assets/d70af737-570d-4692-b046-e62a0267db84" />
 
-<img width="552" height="431" alt="image" src="https://github.com/user-attachments/assets/fca814fa-9f91-43a9-bf34-fbcbfc7ab1df" />
+<p><img width="552" height="431" alt="image" src="https://github.com/user-attachments/assets/fca814fa-9f91-43a9-bf34-fbcbfc7ab1df" /></p>
 
 You have successfully installed and setup osTicket!
 
