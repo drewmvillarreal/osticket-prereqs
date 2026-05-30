@@ -115,7 +115,7 @@ To verify that ISS is installed/enabled, go to your browser and search for 127.0
 </p><p>
 11. Install mysql-5.5.62-win32. In the setup wizard, select "typical setup". Launch configuration wizard, and select "standard configuration".
 
-Make a new password for the root admin. 
+Make a new password for the root admin (you will need this later). 
 
 <img width="263" height="202" alt="image" src="https://github.com/user-attachments/assets/e62d2be5-4934-4a44-96ee-b20ec3f8c0d9" />
 
