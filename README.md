@@ -127,7 +127,9 @@ Finish and execute.
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+12. Open IIS as an administrator. You will need to search for IIS using either the windows search bar, or by clicking the Windows icon and then searching. 
+
+  
 </p>
 <br />
 
